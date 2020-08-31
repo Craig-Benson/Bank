@@ -7,7 +7,7 @@ public class Main {
         Bank bank = new Bank();
 
         Account user1 = new Account();
-        System.out.println(user);
+        System.out.println(user1);
 
 
 
