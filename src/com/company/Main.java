@@ -6,18 +6,25 @@ public class Main {
 // welcome screen
         Bank bank = new Bank();
 
-        Account user1 = new Account();
-        System.out.println(user1);
-
-
-
+        bank.welcome();
+        bank.promptPin();
 
 
 
         // withdraw
         // deposit - cash or cheque
+        // balance
+
+
+
+
+
+
+
+
         // accounts
         // pin
+        //logout
         //
     }
 }
